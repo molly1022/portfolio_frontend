@@ -65,11 +65,11 @@ modern-portfolio/
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](/.github/images/img1.jpg "Modern UI/UX")
 
-![Services](/.github/images/img2.png "Services")
+![Services](/.github/images/img2.jpg "Services")
 
-![Showcase Projects](/.github/images/img3.png "Showcase Projects")
+![Showcase Projects](/.github/images/img3.jpg "Showcase Projects")
 
 
 ## :gem: Acknowledgements
